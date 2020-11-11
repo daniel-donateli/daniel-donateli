@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Functional Programming
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Grapplers are cheap
+
 <!--
 **daniel-donateli/daniel-donateli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,3 +38,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Shopify-informational?style=flat&logo=shopify&logoColor=white&color=2bbc8a)
