@@ -25,3 +25,12 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=daniel-donateli&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="My GitHub Stats" />
 </a>
  
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/<Code>-<Javascript>-informational?style=flat&logo=<javascript>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<NodeJS>-informational?style=flat&logo=<node.js>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<ReasonML>-informational?style=flat&logo=<reason>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<Elixir>-informational?style=flat&logo=<elixir>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<Rust>-informational?style=flat&logo=<rust>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<C>-informational?style=flat&logo=<c>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Editor>-<VSCode>-informational?style=flat&logo=<visual-studio-code>&logoColor=white&color=2bbc8a)
